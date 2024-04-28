@@ -1,6 +1,8 @@
 # Machine Learning Pipeline for a Regression Project
 
-Create  a machine learning pipeline that includes the following steps:
+Create  a machine learning pipeline that using modified version of car mileage dataset to predict MPG
+
+This project includes the following steps:
 
 - ETL
 
